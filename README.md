@@ -7,7 +7,7 @@ Porém nem toda solução para um problema em um certo contexto, necessariamente
 ## 2)	Por que devo aprender padrões?
 Devemos aprender e utilizar os padrões de projetos, pois são modelos que já foram utilizados e testados anteriormente, sendo assim podendo representar um bom ganho de produtividade para quem o utiliza. Além do ganho de produtividade, ele também contribui para uma melhor organização e manutenção de projetos, pois esses padrões se baseiam em pouca dependência entre as classes e padronização do código. Além de que com a padronização dos termos, as discussões técnicas são muito mais facilitadas.
 
-## 3)	Quais as Características de um bom projeto de software?
+## 3)	Quais as características de um bom projeto de software?
 Pode-se definir várias características para um bom projeto de software, mas algumas delas são:  
 
 **•	Funcionalidade:** Diz respeito à satisfação das necessidades que deram origem ao projeto. Abrange requisitos implícitos e explícitos e está intimamente ligada à qualidade do código criado.  
