@@ -45,7 +45,7 @@ Esse princípio basicamente diz que é melhor criar interfaces mais específicas
 Esse princípio pode ser definido da seguinte forma: “Módulos de alto nível não devem depender de módulos de baixo nível. Ambos devem depender da abstração. E abstrações não devem depender de detalhes. Detalhes devem depender de abstrações. ” Resumindo, dependa de abstrações e não de implementações.
 
 ## 5)	O que são os padrões de projeto criacionais e seus tipos?
-Os padrões criacionais fornecem vários mecanismos de criação de objetos, que aumentam a flexibilidade e reutilização de código já existente. Este padrão se subdivide divide em 5 subtipos:  
+Os padrões criacionais fornecem vários mecanismos de criação de objetos, que aumentam a flexibilidade e reutilização de código já existente. Este padrão se subdivide em 5 subtipos:  
 
 **1 - Factory Method:** é um padrão criacional de projeto que fornece uma interface para criar objetos em uma superclasse, mas permite que as subclasses alterem o tipo de objetos que serão criados.  
 
@@ -58,7 +58,7 @@ Os padrões criacionais fornecem vários mecanismos de criação de objetos, que
 **5 – Singleton:** é um padrão de projeto criacional que permite a você garantir que uma classe tenha apenas uma instância, enquanto provê um ponto de acesso global para essa instância.
 
 ## 6)	O que são os padrões de projeto estruturais e seus tipos?
-Os padrões estruturais explicam como montar objetos e classes em estruturas maiores, mas ainda mantendo essas estruturas flexíveis e eficientes. Este padrão se subdivide divide em 7 subtipos:  
+Os padrões estruturais explicam como montar objetos e classes em estruturas maiores, mas ainda mantendo essas estruturas flexíveis e eficientes. Este padrão se subdivide em 7 subtipos:  
 
 **1 – Adapter:** é um padrão de projeto estrutural que permite objetos com interfaces incompatíveis colaborarem entre si.  
 
@@ -75,7 +75,7 @@ Os padrões estruturais explicam como montar objetos e classes em estruturas mai
 **7 – Proxy:** é um padrão de projeto estrutural que permite que você forneça um substituto ou um espaço reservado para outro objeto. Um proxy controla o acesso ao objeto original, permitindo que você faça algo ou antes ou depois do pedido chegar ao objeto original.
 
 ## 7)	O que são os padrões de projeto comportamentais e seus tipos?
-Padrões comportamentais são voltados aos algoritmos e a designação de responsabilidades entre objetos. Este padrão se subdivide divide em 10 subtipos:  
+Padrões comportamentais são voltados aos algoritmos e a designação de responsabilidades entre objetos. Este padrão se subdivide em 10 subtipos:  
 
 **1 - Chain of Responsibility:** é um padrão de projeto comportamental que permite que você passe pedidos por uma corrente de handlers. Ao receber um pedido, cada handler decide se processa o pedido ou o passa adiante para o próximo handler na corrente.  
 
